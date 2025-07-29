@@ -1,53 +1,93 @@
-<h2 align="center">Personal Portfolio <br/> <a target="_blank" href="https://portfolio-devanshsahni.vercel.app/">devanshsahni</a></h2>
+🧑‍💻 Dhruv Shah - Personal Portfolio
 
-<br/>
+Welcome to the source code of my personal portfolio website, built to showcase my skills, projects, experience, and journey as a tech enthusiast. This portfolio is live at:  
+👉 [dhruvshah464.vercel.app](https://dhruvshah464.vercel.app)
 
-## Fork 
-<p>Feel free to fork this repo to modify and make changes of your own. Please give me proper credit by linking it back to this repo. Thanks! 
-  <br/> 
-  The design for this project is inspired by <a href="https://portfolio-devanshsahni.vercel.app/">>Devansh's portfolio.</a></p>
+---
 
-## About 
-<p>This project is my personal portfolio which features some of my skills, GitHub projects and my resume.</p>
-<p>These technologies are used to build this website:</p>
-<ul>
-  <li>React.js</li>
-  <li>Git</li>
-  <li>npm packages</li>
-  <li>Vercel</li>
-</ul>
+## 🔗 About
 
-<p>Some of the features of this website are:</p>
-<ul>
-  <li>Multi-page layout</li>
-  <li>Fully responsive</li>
-  <li>Preloader</li>
-  <li>Refresh on clicking logo</li>
-</ul>
+This is a fully responsive, modern, and elegant developer portfolio website made using **React.js** and **Tailwind CSS**. Inspired by Devansh Sahni's original design and personalized to reflect my story.
 
-<p>npm packages used:</p>
-<ul>
-  <li><a target="_blank" href="https://www.npmjs.com/package/lottie-react">lottie-react</a>: For the animations used in the website.</li>
-  <li><a href="https://www.npmjs.com/package/react-spinners">react-spinners</a>: For the preloader animation.</li>
-  <li><a href="https://www.npmjs.com/package/react-icons">react-icons</a>: For all the icons.</li>
-  <li><a href="https://www.npmjs.com/package/typewriter-effect">typewriter-effect</a>: The typing effect on the home page.</li>
-  <li><a href="https://www.npmjs.com/package/react-pdf">react-pdf</a>: To preview the resume pdf</li>
-  <li><a href="https://www.npmjs.com/package/react-parallax-tilt">react-parallax-tilt</a>: To apply tilt hover effect on react components like image and animation.</li>
-</ul>
+---
 
+## 🚀 Features
 
-## Getting started 🛠️
-<p>You need to have git installed on your system to modify this repo.</p>
-<ol>
-  <li>Fork this repo from the fork option on top of my GitHub repo.</li>
-  <li>After completing the fork, move to the copied repo in your account and copy the HTTPS link from the code option.</li>
-  <li>Now in the terminal of your system(in vs code or any third party terminal) cd over to the location where you want to store this project & write, git clone copied link</li>
-  <li>This would create a copy in your local system and link it to the forked repo.</li>
-  <li>Now open this project in your desirable IDE and in the terminal write npm i, this would install all the necessary npm packages.</li>
-  <li>You can write npm start in the terminal to open the project in development mode. Open http://localhost:3000 to view in the browser. This page should reload when you make any changes.</li>
-</ol>
-<p>You can browse the project and make changes according to your will.</p>
+- ✨ Clean and aesthetic UI
+- 📱 Mobile responsive
+- 🛠️ Built using React & Tailwind CSS
+- 📂 Dynamic project and skill sections
+- 🌙 Light/Dark mode toggle
+- 🌐 Hosted on [Vercel](https://vercel.com)
 
-## Support
-<p>Show your support by leaving a star ⭐ on this repo, if you like the website.</p>
-<p>Fell free to point out any bugs🪲 or improvements in the issues tab.</p>
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React.js, JavaScript (ES6+), Tailwind CSS
+- **Deployment**: Vercel
+- **Version Control**: Git & GitHub
+
+---
+
+## 📁 Folder Structure
+
+```
+
+Portfolio/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── constants/
+│   ├── pages/
+│   ├── App.js
+│   └── index.js
+├── .gitignore
+├── package.json
+├── README.md
+└── tailwind.config.js
+
+````
+
+---
+
+## 🖥️ Setup Instructions
+
+To run the project locally:
+
+```bash
+git clone https://github.com/dhruvshah464/Portfolio.git
+cd Portfolio
+npm install
+npm run dev
+````
+
+To build for production:
+
+```bash
+npm run build
+```
+
+---
+
+## 📬 Contact
+
+If you’d like to connect, feel free to reach out:
+
+* 📧 Email: [dhruvurmilshah@gmail.com](mailto:dhruvurmilshah@gmail.com)
+* 💼 [LinkedIn](https://linkedin.com/in/shah-dhruv-)
+* 📸 [Instagram - @visualsbydhruv](https://instagram.com/visualsbydhruv)
+
+---
+
+## 📝 Acknowledgements
+
+* Original repo by [Devansh Sahni](https://github.com/DevanshSahni/Portfolio)
+* Inspired by multiple modern developer portfolio designs
+
+---
+
+## ⭐️ Show your support
+
+Give this repo a ⭐️ if you like the design and build your own personalized version!
