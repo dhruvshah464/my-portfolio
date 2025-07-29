@@ -1,7 +1,7 @@
 🧑‍💻 Dhruv Shah - Personal Portfolio
 
 Welcome to the source code of my personal portfolio website, built to showcase my skills, projects, experience, and journey as a tech enthusiast. This portfolio is live at:  
-👉 [dhruvshah464.vercel.app](https://dhruvshah464.vercel.app)
+👉 [dhruvshah464.vercel.app]([https://dhruvshah464.vercel.app](https://my-portfolio-xi-nine-46.vercel.app))
 
 ---
 
