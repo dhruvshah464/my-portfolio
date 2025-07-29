@@ -48,8 +48,8 @@ I’m <b>open</b> to collaborations and exciting roles where I can learn and con
         <Skills skill='Vercel' />
         <Skills skill='Npm' />
         <Skills skill='Bootstrap'/>
-         <Skills skill='Machine Learning'/>
-         <Skills skill='Artificial Intelligence'/>
+         /* <Skills skill='Machine Learning'/> */
+         /* <Skills skill='Artificial Intelligence'/> */
 
 
         
