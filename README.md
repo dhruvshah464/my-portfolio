@@ -30,46 +30,6 @@ This is a fully responsive, modern, and elegant developer portfolio website made
 
 ---
 
-## 📁 Folder Structure
-
-```
-
-Portfolio/
-├── public/
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── constants/
-│   ├── pages/
-│   ├── App.js
-│   └── index.js
-├── .gitignore
-├── package.json
-├── README.md
-└── tailwind.config.js
-
-````
-
----
-
-## 🖥️ Setup Instructions
-
-To run the project locally:
-
-```bash
-git clone https://github.com/dhruvshah464/Portfolio.git
-cd Portfolio
-npm install
-npm run dev
-````
-
-To build for production:
-
-```bash
-npm run build
-```
-
----
 
 ## 📬 Contact
 
