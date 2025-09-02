@@ -42,7 +42,7 @@ If you’d like to connect, feel free to reach out:
 
 ## 📝 Acknowledgements
 
-* Original repo by [Devansh Sahni](https://github.com/DevanshSahni/Portfolio)
+
 * Inspired by multiple modern developer portfolio designs
 
 ---
@@ -50,3 +50,4 @@ If you’d like to connect, feel free to reach out:
 ## ⭐️ Show your support
 
 Give this repo a ⭐️ if you like the design and build your own personalized version!
+
