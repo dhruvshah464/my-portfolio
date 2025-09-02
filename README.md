@@ -6,7 +6,7 @@ Welcome to the source code of my personal portfolio website, built to showcase m
 
 ## 🔗 About
 
-This is a fully responsive, modern, and elegant developer portfolio website made using **React.js** and **Tailwind CSS**. Inspired by Devansh Sahni's original design and personalized to reflect my story.
+This is a fully responsive, modern, and elegant developer portfolio website made using **React.js** and **Tailwind CSS**. 
 
 ---
 
@@ -50,4 +50,5 @@ If you’d like to connect, feel free to reach out:
 ## ⭐️ Show your support
 
 Give this repo a ⭐️ if you like the design and build your own personalized version!
+
 
